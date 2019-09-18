@@ -5,6 +5,7 @@ import java.util.ListIterator;
 public class ArrayListDemoApp {
 
 	public static void main(String[] args) {
+		System.out.println("main() method is called");
 		ArrayList list = new ArrayList();
 		System.out.println("initial capacity of list is " + list.size());
 		list.add(1);
