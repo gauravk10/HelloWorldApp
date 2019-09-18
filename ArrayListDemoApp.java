@@ -8,6 +8,14 @@ public class ArrayListDemoApp {
 		//logic
 	}
 
+	public void generateExcelData(){
+		//logic
+	}
+
+	public void generatePdfData(){
+		//logic
+	}
+
 	public static void main(String[] args) {
 		System.out.println("main() method is called");
 		ArrayList list = new ArrayList();
