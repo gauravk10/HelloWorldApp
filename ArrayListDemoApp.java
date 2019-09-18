@@ -4,6 +4,10 @@ import java.util.ListIterator;
 
 public class ArrayListDemoApp {
 
+	public void generateWishMessage(){
+		//logic
+	}
+
 	public static void main(String[] args) {
 		System.out.println("main() method is called");
 		ArrayList list = new ArrayList();
